@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>离子2b2t官网</title>
+		<link rel="icon" href="image/server-icon.ico" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="css/css.css">
+	</head>
+	<body>
+		<h1 class="title">离子2B2T服务器</h1>
+		<h3 class="text">我的世界服务器</h3>
+		
+		<div id="blink" class="text">2b2t*小游戏*圈地*纯生存</div>
+
+		
+		
+		
+	</body>
+	<script>
+	
+	
+	function changeColor(){
+	var color="#f00|#0f0|#00f|#880|#808|#088|yellow|green|blue|gray";
+	color=color.split("|");
+	document.getElementById("blink").style.color=color[parseInt(Math.random() * color.length)];
+	}
+	setInterval("changeColor()",200);
+		
+	</script>
+</html>
