@@ -7,10 +7,14 @@ body{
 .title{
 	font-weight:bolder;
 	text-align: center;
-	font-size:px;
+	font-size:50px;
 }
 .text{
 	font-weight:bolder;
-	text-align: center;
-		
+	text-align: center;		
 }	
+span{
+	color:red;
+	font-weight:bold;
+	
+}
