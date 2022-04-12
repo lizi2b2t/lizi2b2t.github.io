@@ -1,3 +1,5 @@
 # lizi2b2t.github.io
-我的世界离子2B2T服务器官网
-github提供网页运营服务
+©2022 Minecraft Team LiZi||
+服务器邮箱:minecraft_lizi@163.com||
+二级域名由Github Inc.提供和托管||
+"离子2B2T”是“Minecraft Team LiZi”的Minecraft Java服务器||
